@@ -29,7 +29,7 @@ whatscord/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/whatscord.git
+git clone https://github.com/norkart1/whatscord.git
 cd whatscord
 ```
 
